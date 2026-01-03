@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University.<br>🚀 Learning to turn curiosity into simple digital creations.<br>🧠 Practicing Python and learning Data Structures & Algorithms to improve logical thinking step by step.<br><br>📘 What I’m Learning Right Now<br>      Java Programming<br>      MEAN Stack<br>
+🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University.<br>🚀 Learning to turn curiosity into simple digital creations.<br>🧠 Practicing Python and learning Data Structures & Algorithms to improve logical thinking step by step.<br><br>📘 What I’m Learning Right Now<br>      c++ Programming<br>      MEAN Stack<br>
 
 
 ## 🌐 Socials:
